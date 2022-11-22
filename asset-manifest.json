@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/webrtcfront/static/css/main.bfba0d04.css",
+    "main.js": "/webrtcfront/static/js/main.49aeb192.js",
+    "static/media/profile.jpg": "/webrtcfront/static/media/profile.3172159aeb1632762540.jpg",
+    "index.html": "/webrtcfront/index.html",
+    "main.bfba0d04.css.map": "/webrtcfront/static/css/main.bfba0d04.css.map",
+    "main.49aeb192.js.map": "/webrtcfront/static/js/main.49aeb192.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bfba0d04.css",
+    "static/js/main.49aeb192.js"
+  ]
+}
